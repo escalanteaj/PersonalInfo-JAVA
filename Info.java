@@ -7,7 +7,7 @@ import java.util.Scanner;
  *		This application asks the user for his/her basic 
  *		personal information (full name, birthday and place of birth).
  * History:
- *		08/17/2015 - File Created. Armando J. Escalante
+ *		08/17/2015 - File Created. AJE
  */
  
  public class Info {
